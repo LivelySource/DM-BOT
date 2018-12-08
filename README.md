@@ -26,7 +26,7 @@ then...
 - Rename  `config-example.json` to `config.json`
 - Edit `config.json` and fill in all the required inputs.
 
-## Using DM- BOt
+## Using DM-Bot
 
 To start DM-BOT, in command prompt or powershell(whichever you are using), run the following command:
 `npm start`
