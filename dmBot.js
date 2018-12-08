@@ -27,11 +27,11 @@ dmBot.on("message", (message) => {
         var args = args.slice(0).join(" ")
         var BOT_ID = dmBot.user.id
         var userID = message.author.id
-        if (message.content.startsWith(config.PREFIX)) return message.channel.send(":x: Please use commands in real server! :x:") //if the message is a command
+        if (message.content.startsWith(config.PREFIX)) return message.channel.send(":x: Please use commands in real server! :x:") 
         if (message.author.bot) return;
         message.channel.send("This message has been send to the staff! :incoming_envelope:").then(msg => msg.delete(3000))
         if (message.content.startsWith(config.PREFIX)) return
-        if (args.length > 256) return message.reply("Your message content too many characters :/") //if the message contnt more than 256 character, what fields do not allow
+        if (args.length > 1024) return message.reply("Your message content too many characters (1024 Limit) :/") 
         var embed = new Discord.RichEmbed()
             .setColor(config.ORANGE)
             .setAuthor("New Message", "https://cdn.discordapp.com/attachments/502649544622735362/520740243133956138/receive.png")
@@ -55,7 +55,7 @@ dmBot.on("message", (message) => {
         var args = message.content.split(" ").slice(0)
         var Rargs = message.content.split(" ").slice(2).join(" ")
         var userID = args[1]
-        if (isNaN(args[1])) return message.reply("This is not an ID! Make sure to you the user's ID!") //if args is Not A Number!
+        if (isNaN(args[1])) return message.reply("This is not an ID! Make sure to you the user's ID!")
         var embed = new Discord.RichEmbed()
             .setColor(config.ORANGE)
             .setAuthor("New Message", "https://cdn.discordapp.com/attachments/502649544622735362/520740243133956138/receive.png")
