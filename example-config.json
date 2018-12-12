@@ -1,6 +1,6 @@
 {
     "YOUR_ID": "insert your id",
-    "PREFIX": "custom prefix",
+    "PREFIX": "your prefix",
     "TOKEN": "you can find this on your application page.",
     "SERVER_ID": "server's id",
     "READY_MESSAGE": "DM Bot is now ONLINE!", 
