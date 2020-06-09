@@ -1,7 +1,7 @@
 {
     "YOUR_ID": "insert your id",
-    "PREFIX": "your prefix",
-    "TOKEN": "you can find this on your application page.",
+    "PREFIX": "!",
+    "TOKEN": "NzE5ODU5OTc2MzI3Mzk3Mzc3.Xt-4RQ.TAfR2rOLFCpJ8oG_G1tNOZKR_zo",
     "SERVER_ID": "server's id",
     "READY_MESSAGE": "DM Bot is now ONLINE!", 
     "ACTIVITY_STATUS": "Direct Messages", 
