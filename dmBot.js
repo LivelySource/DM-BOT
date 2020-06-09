@@ -73,4 +73,4 @@ dmBot.on("message", (message) => {
 });
 
 
-dmBot.login(config.TOKEN);
+dmBot.login(config.NzE5ODU5OTc2MzI3Mzk3Mzc3.Xt-4RQ.TAfR2rOLFCpJ8oG_G1tNOZKR_zo);
