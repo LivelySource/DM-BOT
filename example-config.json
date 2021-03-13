@@ -3,10 +3,11 @@
     "PREFIX": "your prefix",
     "TOKEN": "you can find this on your application page.",
     "SERVER_ID": "server's id",
+    "CHANNEL_ID": "The channel ID you wish the messages to be transfered",
     "READY_MESSAGE": "DM Bot is now ONLINE!", 
     "ACTIVITY_STATUS": "Direct Messages", 
-	"RED": "#b70000",
+    "RED": "#b70000",
     "ORANGE": "#ff6a00",
-	"GREEN": "#00ff26",
-	"PURPLE": "#d604cf"
+    "GREEN": "#00ff26",
+    "PURPLE": "#d604cf"
 }
