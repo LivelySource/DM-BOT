@@ -8,7 +8,7 @@ const Discord = require("discord.js");
 const dmBot = new Discord.Client();
 const config = require("./config.json");
 
-// Edit as you please~ Besure to credit the writeful creators.
+// Edit as you please~ Besure to credit the rightful creators.
 
 dmBot.on("ready", async () => {
 
