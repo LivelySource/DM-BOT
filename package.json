@@ -14,7 +14,7 @@
   "license": "MIT",
   "homepage": "https://livelysource.tk/",
   "dependencies": {
-    "discord.js": "^11.4.2",
+    "discord.js": "^12.5.3",
     "fs": "0.0.1-security"
   }
 }
