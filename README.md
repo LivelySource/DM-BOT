@@ -3,7 +3,7 @@
     <img src="https://cdn.discordapp.com/attachments/502649544622735362/520794535018627083/dm-bot.png"><br><br>
 </div>
 
-Hello glad you stumpled upon DM-BOT. You can freely modify, configure, produce this code. I only wish you respect my wishes and give credit where it is due. Thank you! If you have any questions or concerns visit my webpage > [LivelySource.tk](https://livelysource.tk)
+Hello glad you stumpled upon DM-BOT. You can freely modify, configure, produce this code. I only wish you respect my wishes and give credit where it is due. Thank you! If you have any questions or concerns visit my webpage > REDACTED
 
 ## Requirements
 
